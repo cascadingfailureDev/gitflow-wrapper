@@ -74,12 +74,18 @@ docs/_build/
 # PyBuilder
 target/
 
+# git integration tests
+git/
+
 # Jupyter Notebook
 .ipynb_checkpoints
 
 # IPython
 profile_default/
 ipython_config.py
+
+# pyCharm
+.idea/
 
 # pyenv
 .python-version
